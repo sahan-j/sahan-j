@@ -1,6 +1,6 @@
 <!-- Header with animated text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;Welcome+to+Sahan's+GitHub+profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;Welcome+to+Sahan's+GitHub+profile!&center=true&size=20">
 </h1>
 
 <!-- Profile Banner -->
